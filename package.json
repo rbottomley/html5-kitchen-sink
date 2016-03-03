@@ -1,0 +1,23 @@
+{
+  "name": "html5-kitchen-sink",
+  "version": "0.0.1",
+  "description": "Sample markup containing all (most) HTML5 elements, useful for setting base styles.",
+  "main": "kitchen-sink.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbox/html5-kitchen-sink.git"
+  },
+  "keywords": [
+    "html5",
+    "kitchen-sink"
+  ],
+  "author": "Daniel Box",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbox/html5-kitchen-sink/issues"
+  },
+  "homepage": "https://github.com/dbox/html5-kitchen-sink#readme"
+}
