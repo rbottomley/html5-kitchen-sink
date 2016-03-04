@@ -4,7 +4,7 @@
 Sample markup containing most HTML5 elements. 
 
 ### What can I do with this?
-- See differences in [normalize](https://github.com/necolas/normalize.css/)/[reset](http://meyerweb.com/eric/tools/css/reset/)/[sanitze](https://github.com/10up/sanitize.css)
+- See differences in [normalize](https://github.com/necolas/normalize.css/)/[reset](http://meyerweb.com/eric/tools/css/reset/)/[sanitize](https://github.com/10up/sanitize.css)
 - Test various css frameworks
 - Jumpstart your own custom base css
 
